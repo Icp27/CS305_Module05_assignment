@@ -1,6 +1,7 @@
 # CONTRIBUTING Guidelines
 
-
+Contributor: Brayden Riggs
+I contributed here blah blah.
 
 
 
