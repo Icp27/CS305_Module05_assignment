@@ -3,6 +3,9 @@
 Contributor: Brayden Riggs
 I contributed here blah blah.
 
+Contributor: **Manolo Ortiz**
+I contributed to the project.
+
 
 
 
